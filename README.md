@@ -1,0 +1,3 @@
+使用python写的ping功能脚本
+它可以打印，不调用cmd或powershell
+功能比较单一
